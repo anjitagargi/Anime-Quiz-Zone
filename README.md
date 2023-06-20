@@ -1,25 +1,106 @@
-# Getting Started with Create React App
+<div align="center">
+    <img title="Outlier" src="https://fullclarity.co.uk/wp-content/uploads/2019/01/react-512.png" alt="React Logo" width="250" />
+    <img title="TypeScript" alt="TypeScript" height=230
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
+ </div>
+<h1 align="center">
+  React-Typescript Anime Quiz Website
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p><font size="3">
+  This is a React-Typescript Quiz App built using <strong><em>React.JS & Typescript</em></strong> . You answer the questions and the app will calcualte the score for you automatically. 
+  <br><br> 
+  <strong><em>Take a look at the live version here:</em></strong> https://react-typescript-quiz-app-nine.vercel.app/ :octocat: :heart_eyes:
 
-## Available Scripts
+</p>
 
-In the project directory, you can run:
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [Project Walk-Through](#project-walk-through)
+  - [Quiz-Start Page](#quiz-start-page)
+  - [Quiz Process](#quiz-process)
+  - [Quiz-end Page](#quiz-end-page)
+- [Live Demo](#live-demo)
+- [Technology Used](#technology-used)
+- [How To Use](#how-to-use)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+
+# Project Walk-Through
+
+ # Quiz-Start-Page
+
+<div align="center"><a name="menu"></a>
+
+![ScreenShot](https://github.com/AhmedTohamy01/React-Quiz-App/blob/master/public/img/readme/1.png)
+</div>
+
+
+ # Quiz Process
+ 
+ <div align="center"><a name="menu"></a>
+
+![ScreenShot](https://github.com/AhmedTohamy01/React-Quiz-App/blob/master/public/img/readme/2.png)
+</div>
+
+
+
+ # Quiz-end Page
+ 
+<div align="center"><a name="menu"></a>
+
+![ScreenShot](https://github.com/AhmedTohamy01/React-Quiz-App/blob/master/public/img/readme/3.png)
+</div>
+
+
+
+# Live Demo
+
+***Take a look on the live version here:*** https://react-typescript-quiz-app-nine.vercel.app/
+
+
+# Technology Used
+
+I have built this project using the following tools & techniques:
+- React.JS
+- Typescript.
+- Context API
+- Compound Components.
+- JSX.
+- CSS Modules.
+- VSCode.
+
+
+# How To Use
+
+To be able to use this react app locally in a development environment you will need the following:
+
+1) You will need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) installed on your computer.
+
+2) Then From your terminal, you should do the following:
+
+```cmd
+# Clone this repository
+git clone https://github.com/AhmedTohamy01/React-Quiz-App
+
+# Go into the repository
+cd react-Quiz-App
+
+# Install dependencies
+npm install 
+
+# Run the app
+npm start
+
+```
+
+4) Now you can see the project in your browser as you see in the live demo link. 
+Happy Hacking!
+
+`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
