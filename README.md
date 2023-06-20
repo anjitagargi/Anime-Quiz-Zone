@@ -15,48 +15,6 @@
 </p>
 
 
-## Table of Contents
-
-- [Project Walk-Through](#project-walk-through)
-  - [Quiz-Start Page](#quiz-start-page)
-  - [Quiz Process](#quiz-process)
-  - [Quiz-end Page](#quiz-end-page)
-- [Live Demo](#live-demo)
-- [Technology Used](#technology-used)
-- [How To Use](#how-to-use)
-
-
-
-
-
-# Project Walk-Through
-
- # Quiz-Start-Page
-
-<div align="center"><a name="menu"></a>
-
-![ScreenShot](https://github.com/AhmedTohamy01/React-Quiz-App/blob/master/public/img/readme/1.png)
-</div>
-
-
- # Quiz Process
- 
- <div align="center"><a name="menu"></a>
-
-![ScreenShot](https://github.com/AhmedTohamy01/React-Quiz-App/blob/master/public/img/readme/2.png)
-</div>
-
-
-
- # Quiz-end Page
- 
-<div align="center"><a name="menu"></a>
-
-![ScreenShot](https://github.com/AhmedTohamy01/React-Quiz-App/blob/master/public/img/readme/3.png)
-</div>
-
-
-
 # Live Demo
 
 ***Take a look on the live version here:*** https://react-typescript-quiz-app-nine.vercel.app/
