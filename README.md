@@ -10,14 +10,14 @@
 <p><font size="3">
   This is a React-Typescript Quiz App built using <strong><em>React.JS & Typescript</em></strong> . You answer the questions and the app will calcualte the score for you automatically. 
   <br><br> 
-  <strong><em>Take a look at the live version here:</em></strong> https://react-typescript-quiz-app-nine.vercel.app/ :octocat: :heart_eyes:
+  <strong><em>Take a look at the live version here:</em></strong> (https://anime-quiz-zone.netlify.app/)  :octocat: :heart_eyes:
 
 </p>
 
 
 # Live Demo
 
-***Take a look on the live version here:*** https://react-typescript-quiz-app-nine.vercel.app/
+***Take a look on the live version here:*** https://anime-quiz-zone.netlify.app/
 
 
 # Technology Used
