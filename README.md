@@ -42,7 +42,7 @@ To be able to use this react app locally in a development environment you will n
 
 ```cmd
 # Clone this repository
-git clone https://github.com/AhmedTohamy01/React-Quiz-App
+git clone https://github.com/anjitagargi/Anime-Quiz-Zone
 
 # Go into the repository
 cd react-Quiz-App
